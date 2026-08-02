@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantuhipster/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Quantuhipster/Mission_DSA/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Quantuhipster/Mission_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Quantuhipster/Mission_DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
