@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantuhipster/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
