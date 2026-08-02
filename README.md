@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/Quantuhipster/Mission_DSA/tree/master/0147-insertion-sort-list) |
 ## Sorting
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
