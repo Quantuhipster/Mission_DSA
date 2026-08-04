@@ -11,17 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Quantuhipster/Mission_DSA/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Quantuhipster/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantuhipster/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
