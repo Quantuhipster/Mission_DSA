@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Quantuhipster/Mission_DSA/tree/master/0014-longest-common-prefix) |
+| [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Quantuhipster/Mission_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
