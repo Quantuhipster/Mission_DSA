@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
+| [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
