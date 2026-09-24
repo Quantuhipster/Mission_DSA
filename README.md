@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Quantuhipster/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Quantuhipster/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
