@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Quantuhipster/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
+| [2390-removing-stars-from-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Quantuhipster/Mission_DSA/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
