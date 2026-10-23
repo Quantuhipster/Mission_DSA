@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantuhipster/Mission_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Quantuhipster/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Quantuhipster/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Quantuhipster/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Quantuhipster/Mission_DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Quantuhipster/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Quantuhipster/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
