@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Quantuhipster/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Quantuhipster/Mission_DSA/tree/master/0189-rotate-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Quantuhipster/Mission_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Quantuhipster/Mission_DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Quantuhipster/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Quantuhipster/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Quantuhipster/Mission_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Quantuhipster/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [2390-removing-stars-from-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Quantuhipster/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Quantuhipster/Mission_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
